@@ -1,0 +1,12 @@
+{
+    "status": 200,
+    "strings": [
+        "some",
+        "fake",
+        "data",
+        "in",
+        "a",
+        "json",
+        "file"
+    ]
+}
